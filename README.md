@@ -1,0 +1,1 @@
+# GestorDeAssinaturasTelegram-ShowCase
