@@ -19,4 +19,5 @@ Esse projeto faz o gerenciamento de assinaturas de usuários no Telegram.
 
 ## Demonstração
 
+Clique na imagem abaixo para abrir o video
 [![alt text](https://i.imgur.com/v1OxIS3.png)](https://vimeo.com/1026291570?share=copy#t=0)
